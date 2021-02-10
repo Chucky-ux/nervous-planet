@@ -1,4 +1,4 @@
-import React from 'react';
+importimport React from 'react';
 import _ from 'lodash';
 
 import components, {Layout} from '../components/index';
